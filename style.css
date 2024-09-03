@@ -1,7 +1,20 @@
+/* Общие стили */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    color: #333;
-    text-align: center;
-    padding: 50px;
+    font-family: Arial, sans-serif;   /* Шрифт */
+    background-color: #f0f0f0;       /* Цвет фона */
+    color: #333;                     /* Цвет текста */
+    text-align: center;              /* Выравнивание текста по центру */
+    padding: 50px;                   /* Отступы */
+}
+
+/* Стили заголовка */
+h1 {
+    color: #007bff;                  /* Цвет заголовка */
+    margin-bottom: 20px;             /* Отступ снизу */
+}
+
+/* Стили параграфов */
+p {
+    font-size: 18px;                 /* Размер шрифта */
+    line-height: 1.5;                /* Высота строки */
 }
